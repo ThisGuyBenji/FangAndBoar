@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+  <html>
+    <head>
+      <meta charset="utf-8">
+		  <meta name="viewport" content="width=device-width, initial-scale=1">
+      <link rel="preconnect" href="https://fonts.googleapis.com">
+      <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+      <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@200&display=swap" rel="stylesheet">
+      <link rel="stylesheet" href="styles.css">
+
+		  <title>Fang & Boar</title>
+
+      <h1 class="fangboar">Fang & Boar</h1>
+      <h3 class="designs">D E S I G N</h3>
+
+
+      <div class="navbar">
+        <nav>
+          <a href="AboutMe.html">About Me</a>
+          <div class="dropdown">
+            <button class="dropbtn">My Work</button>
+              <i class="fa fa-caret-down"></i>
+              <div class="dropdown-content">
+                <a href="Portfolio.html">Web Dev</a>
+                <a href="GraphicDesign.html">Graphic Design</a>
+              </div>
+
+          
+          </div>
+        </nav>
+      </div>  
+    </head>
+
+
+    <body>
+
+    <div class="bodyody">
+      <p class="welcome">
+        Hey everyone! I can't even begin to tell you how excited I am to begin working on this project. This website will be constantly updated as I begin to learn more and more in my web development and software engineering program. 
+      </p>
+      <p>
+        The Fang & Boar brand started during the pandemic -first, as an online clothing store and then again as my graphic design brand. Now, I'm expanding it to include my Web Development and Software Engineering, which I recently started. 
+      </p>
+      <p>
+        All of what you see is completely coded from scratch, by me, as I learn through this cours and do the appropriate research to add all the elements that I'm looking for and have created, combining my graphic design and coding! Mixing both the artistic and logical sides of my brain to the absolute limit. 
+      </p>
+      <p>
+        Thanks so much for checking this out. I will be adding more and more to this website as I go! Feel free to keep checking it all out!
+      </p>
+
+    </div>
+    </body>
+
+
+    <footer>
+      Website made with way too much patience and an eager desire for unlimited coffee and pizza.
+    </footer>
+  </html>
